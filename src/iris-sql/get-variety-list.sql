@@ -1,0 +1,1 @@
+SELECT DISTINCT variety FROM iris;
